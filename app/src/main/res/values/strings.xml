@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FarmerQueries</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="questionkey">questionKey</string>
+
+    <string name="questionsKey">questions</string>
+    <string name="repliesKey">replies</string>
+
+    <string name="your_question">Your Question goes here</string>
+</resources>
